@@ -1,2 +1,2 @@
 # client
-super-inspire client
+instantbox client
